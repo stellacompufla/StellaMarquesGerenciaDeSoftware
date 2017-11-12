@@ -17,6 +17,10 @@ Faça check out Crie um novo método soma na classe A para retornar a soma dos a
 Faça check out e insira novo atributo String Aramo4 com seu set e get na classe A.
 Essa alteração deverá ser um novo ramo de sua gerência de configuração. Faça Check-in.
 Crie a versão 1.2 do ramo.
+
+Faça check out da última versão do tronco principal e insira novo atributo 
+String  Aprinc4 com seu set e get na classe A. 
+Essa alteração será a versão 1.2 do tronco principal. Faça Check-in.
  */
  
 int soma(int a, float b)
@@ -38,6 +42,7 @@ int func_A()
 
 int main(int argc, char **argv)
 {
+	char Aprinc4[10];
 	
 	return 0;
 }
