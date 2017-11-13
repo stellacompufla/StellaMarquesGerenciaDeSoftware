@@ -55,9 +55,7 @@ int func_B()
 
 int main(int argc, char **argv)
 {
-	
 	char Aprinc4[10];
-	
 	return 0;
 }
 
