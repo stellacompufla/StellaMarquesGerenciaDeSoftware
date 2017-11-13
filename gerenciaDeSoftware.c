@@ -21,6 +21,11 @@ Crie a versão 1.2 do ramo.
 Faça check out da última versão do tronco principal e insira novo atributo 
 String  Aprinc4 com seu set e get na classe A. 
 Essa alteração será a versão 1.2 do tronco principal. Faça Check-in.
+
+Faça check out da última versão do tronco principal e crie uma nova 
+Classe B com os atributos int B1 e float B2, e seus gets e sets. 
+Essa alteração será a versão 1.3 do tronco principal. NÃO FAÇA Check-in.
+
  */
  
 int soma(int a, float b)
@@ -38,10 +43,12 @@ int func_A()
   return 0;	
 }
 
+
 #include <stdio.h>
 
 int main(int argc, char **argv)
 {
+	
 	char Aprinc4[10];
 	
 	return 0;
