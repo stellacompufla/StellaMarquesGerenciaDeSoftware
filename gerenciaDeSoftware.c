@@ -43,6 +43,13 @@ int func_A()
   return 0;	
 }
 
+int func_B()
+{
+  int B1 = 0;
+  float B2 = 0;
+  char A3[10];
+  return 0;	
+}
 
 #include <stdio.h>
 
