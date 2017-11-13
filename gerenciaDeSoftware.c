@@ -45,13 +45,11 @@ int func_A()
 
 int func_B()
 {
-  int A1 = 0;
-  float A2 = 0;
+  int B1 = 0;
+  float B2 = 0;
   char A3[10];
-  char A4[10];
-  return 0;		
+  return 0;	
 }
-
 
 #include <stdio.h>
 
